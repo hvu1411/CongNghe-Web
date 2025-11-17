@@ -6,7 +6,6 @@
 </head> 
 <body> 
     <h1>Kết quả PHP Căn Bản</h1> 
-    <div class = 'box'> 
         <?php 
         // BẮT ĐẦU CODE PHP CỦA BẠN TẠI ĐÂY 
         // TODO 1: Khai báo 3 biến 
@@ -39,7 +38,5 @@
             chaoMung();
         // KẾT THÚC CODE PHP CỦA BẠN TẠI ĐÂY 
         ?> 
-    </div>
- 
 </body> 
 </html> 

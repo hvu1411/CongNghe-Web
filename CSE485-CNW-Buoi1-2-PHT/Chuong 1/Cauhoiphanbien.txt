@@ -1,0 +1,1 @@
+Tại sao khi tải lại trang web, tab network lại hiển thị rất nhiều request trong khi lúc mới truy cập vào web lúc đầu không có ?

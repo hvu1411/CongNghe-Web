@@ -1,0 +1,1 @@
+tại sao luôn phải sử dụng hàm session_start() ở đầu các file php như bài tập này ?

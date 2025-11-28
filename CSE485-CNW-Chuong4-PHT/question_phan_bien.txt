@@ -1,0 +1,1 @@
+Trong phần INSERT, tại sao chúng ta phải dùng Prepared Statement (prepare + execute) thay vì nối chuỗi trực tiếp vào câu SQL?

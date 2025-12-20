@@ -1,0 +1,2 @@
+Sự khác biệt cơ bản giữa Xác thực (Authentication) và Phân quyền (Authorization) 
+là gì? 
